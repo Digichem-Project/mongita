@@ -1,3 +1,5 @@
+This fork of Mongita implements a limited-size cache (to prevent OOM issues with large data sets) and improves performance by removing some deep copies.
+
 ![Mongita Logo](https://raw.githubusercontent.com/scottrogowski/mongita/master/assets/mongita.jpg)
 
 ![Version 1.2.0](https://img.shields.io/badge/version-1.2.0-brightgreen) ![Build passing](https://img.shields.io/badge/build-passing-brightgreen) ![Coverage 100%](https://img.shields.io/badge/coverage-100%25-brightgreen) ![License BSD](https://img.shields.io/badge/license-BSD-green]) ![MacOS|Linux](https://img.shields.io/badge/platforms-macos%20%7C%20linux-brightgreen)
